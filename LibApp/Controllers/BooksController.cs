@@ -78,6 +78,7 @@ namespace LibApp.Controllers
             var viewModel = new RandomBookViewModel
             {
                 Book = firstBook,
+                Customers = customers
             };
             return View();
         }

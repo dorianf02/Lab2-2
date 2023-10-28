@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using LibApp.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Cryptography.X509Certificates;
 
 namespace LibApp.Data
 {
@@ -8,6 +10,8 @@ namespace LibApp.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
-        }
+             public DbSet<Customer> Customers { get; set; }
+        public DbSet<MembershipType> MembershipTypes { get; set; }
+    }
     }
 }

@@ -2454,19 +2454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dodod\\.nuget\\packages\\": {}
+    "D:\\Users\\dorian.fugat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dodod\\source\\repos\\Lab2-2\\LibApp\\LibApp.csproj",
+      "projectUniqueName": "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\LibApp.csproj",
       "projectName": "LibApp",
-      "projectPath": "C:\\Users\\dodod\\source\\repos\\Lab2-2\\LibApp\\LibApp.csproj",
-      "packagesPath": "C:\\Users\\dodod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dodod\\source\\repos\\Lab2-2\\LibApp\\obj\\",
+      "projectPath": "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\LibApp.csproj",
+      "packagesPath": "D:\\Users\\dorian.fugat\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dodod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Users\\dorian.fugat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2474,6 +2474,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2532,7 +2533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

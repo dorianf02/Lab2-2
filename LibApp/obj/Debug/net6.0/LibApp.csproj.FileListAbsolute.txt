@@ -69,3 +69,12 @@ C:\Users\dodod\source\repos\Lab2-2\LibApp\obj\Debug\net6.0\refint\LibApp.dll
 C:\Users\dodod\source\repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.pdb
 C:\Users\dodod\source\repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.genruntimeconfig.cache
 C:\Users\dodod\source\repos\Lab2-2\LibApp\obj\Debug\net6.0\ref\LibApp.dll
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.csproj.AssemblyReference.cache
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.AssemblyInfoInputs.cache
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.AssemblyInfo.cs
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.csproj.CoreCompileInputs.cache
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.RazorAssemblyInfo.cache
+D:\Users\dorian.fugat\Source\Repos\Lab2-2\LibApp\obj\Debug\net6.0\LibApp.RazorAssemblyInfo.cs

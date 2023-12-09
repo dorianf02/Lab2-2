@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\LibApp.csproj": {}
+    "D:\\Users\\dorian.fugat\\source\\repos\\Lab2-2\\LibApp\\LibApp.csproj": {}
   },
   "projects": {
-    "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\LibApp.csproj": {
+    "D:\\Users\\dorian.fugat\\source\\repos\\Lab2-2\\LibApp\\LibApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\LibApp.csproj",
+        "projectUniqueName": "D:\\Users\\dorian.fugat\\source\\repos\\Lab2-2\\LibApp\\LibApp.csproj",
         "projectName": "LibApp",
-        "projectPath": "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\LibApp.csproj",
+        "projectPath": "D:\\Users\\dorian.fugat\\source\\repos\\Lab2-2\\LibApp\\LibApp.csproj",
         "packagesPath": "D:\\Users\\dorian.fugat\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\obj\\",
+        "outputPath": "D:\\Users\\dorian.fugat\\source\\repos\\Lab2-2\\LibApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\dorian.fugat\\AppData\\Roaming\\NuGet\\NuGet.Config",

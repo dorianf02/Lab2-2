@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6czDstf+vN6eWnqyfi3Gi23pLrTBcKairlbpxK/zcpipclr4zuIp654pLAN2e72fAcBLEoVDWVXI7zzbYsxNVA==",
+  "dgSpecHash": "8ZxLKLC5GY8tvZxtNrlUbyAyMAPgGtkH/u4RBzp1ykbmR30ZkMWYm3NA+dJv2uJIvHSqnISivIckh+GikTMgwg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\dorian.fugat\\Source\\Repos\\Lab2-2\\LibApp\\LibApp.csproj",
+  "projectFilePath": "D:\\Users\\dorian.fugat\\source\\repos\\Lab2-2\\LibApp\\LibApp.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\dorian.fugat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "D:\\Users\\dorian.fugat\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
